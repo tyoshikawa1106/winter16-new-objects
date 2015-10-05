@@ -4,3 +4,6 @@ Winter'16 Release Notes
 
 ##UserAppMenuItem
 <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/t/tyoshikawa1106/20151005/20151005231702.png" />
+
+##SetupAuditTrail
+<img src="http://cdn-ak.f.st-hatena.com/images/fotolife/t/tyoshikawa1106/20151005/20151005234643.png" />
